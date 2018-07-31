@@ -8,6 +8,6 @@
     "docs:deploy": "bash ./deploy-docs.sh"
   },
   "devDependencies": {
-    "gl-cli": "^2.8.1"
+    "gl-react-cli": "^1.0.3"
   }
 }

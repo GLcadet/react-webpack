@@ -1,7 +1,7 @@
 { 
   "noEscape": true,
   "name": "test",
-  "description": "A Vue.js project",
+  "description": "A React.js project",
   "author": "CircleCI",
   "build": "runtime",
   "router": false,
